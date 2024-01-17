@@ -49,6 +49,7 @@ When both numbers are the unit vectors $\hat{a}$, the **cosine of the angle** be
 #### 1. Cross(vector) Product
 
 $$a\times{b}=-b\times{a}$$
+
 * Cross product is orthogonal to two initial vectors
 * Direction determined by right-hand rule
 * Useful in constructing coordinate systems (later)
@@ -83,3 +84,4 @@ $$\vec{A}\times\vec{b}=\left(\begin{matrix}
 * **Magical 2D arrays that haunt in every CS course**
 * **In graphics, pervasisvely used to represent transformations**
     \- Translation, rotation, shear, scale
+
